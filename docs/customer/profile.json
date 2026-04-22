@@ -1,0 +1,124 @@
+{
+  "companyName": "楔子科技（杭州）有限公司",
+  "shortName": "楔子科技",
+  "summary": "杭州余杭区AI应用软件开发及软件外包服务商，基于大模型技术提供企业智能化解决方案，目标客户为中小企业及直播/电商从业者。",
+  "industry": "软件与信息技术服务业",
+  "subIndustry": "AI应用软件开发 / 软件外包服务",
+  "scale": "小微企业（5人参保，含自然人控股创业团队）",
+  "mainBusiness": "AI应用软件开发、大模型技术应用服务、软件外包、信息技术咨询",
+  "products": [
+    { "name": "AI应用软件定制开发", "description": "面向中小企业的AI功能模块及智能应用定制开发服务" },
+    { "name": "大模型应用解决方案", "description": "基于AI大模型的垂直场景应用集成与部署服务" },
+    { "name": "软件外包服务", "description": "软件开发人力外包与项目整体外包交付" },
+    { "name": "企业数字化咨询", "description": "技术咨询、数字化转型方案规划与落地支持" }
+  ],
+  "targetCustomers": [
+    "杭州及长三角地区中小企业（制造业、零售业）",
+    "直播电商从业者及 MCN 机构",
+    "需要软件外包和 AI 能力补强的创业团队"
+  ],
+  "businessModel": "项目制软件外包 + AI应用定制开发，辅以技术咨询服务的混合模式",
+  "rating": "B",
+  "tags": ["AI应用", "软件外包", "大模型", "杭州余杭", "创业早期", "自然人控股", "小微企业", "数字化转型"],
+  "website": "www.xiezi.tech",
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": "小微规模（年营收推测在数百万量级，无公开数据）",
+  "registration": {
+    "registeredName": "楔子科技（杭州）有限公司",
+    "registeredCapital": "100万(元)",
+    "paidCapital": "10万(元)",
+    "establishedDate": "2022-07-22",
+    "legalRepresentative": "董瑞阳",
+    "businessStatus": "开业",
+    "shareholders": [
+      { "name": "董瑞阳", "share": "79%", "type": "自然人" },
+      { "name": "万先甲", "share": "10%", "type": "自然人" },
+      { "name": "代志远", "share": "10%", "type": "自然人" },
+      { "name": "李兰", "share": "1%", "type": "自然人" }
+    ],
+    "branchCount": 1,
+    "interpretation": "注册资本100万但实缴仅10万，资金杠杆高达10倍，显示创业初期资金紧张、股东观望心态。实缴率10%属于典型创业期小微企业特征，扩张能力受限。2023年引入万先甲和代志远两位自然人股东后注册资本结构略有调整，但总实缴仍偏低。2023年9月从滨江迁至余杭并获增值税一般纳税人资格，运营地址和税务资质升级显示业务有一定正规化诉求。",
+    "organizationType": "创业型（自然人联合创业）",
+    "keyFindings": [
+      "实缴资本仅10%，资金杠杆10倍，初期运营资金紧张，扩张依赖外部融资或股东追加投入。",
+      "四位自然人股东结构简单，创始人董瑞阳持股79%为绝对控制人，决策链短但抗风险能力弱。",
+      "曾对外投资设立长沙子公司（51%控股）但已注销，反映早期扩张尝试受挫或战略收缩。"
+    ]
+  },
+  "organization": {
+    "type": "创业型（核心创始人主导决策，无职业化管理阶段）",
+    "decisionChain": "创始人/总经理（董瑞阳）→ 技术团队→ 客户对接→ 交付完成，决策链极短，采购决策高度集中于创始人，合作洽谈需直接触达董瑞阳本人。",
+    "keyPersons": [
+      { "name": "董瑞阳", "title": "执行董事兼总经理（法定代表人）" },
+      { "name": "李兰", "title": "监事" }
+    ],
+    "salesStrategy": "以技术社群、私域推荐和平台接单为主，通过过往项目口碑获客，核心策略是以低价/高性价比切入中小企业AI定制需求，避免与大体量外包商正面竞争。"
+  },
+  "timing": {
+    "phase": "初建基础期（已过0-1探索阶段，正在寻找产品化路径）",
+    "analysisBasis": [
+      "公司成立于2022年，运营3年，仍保持5人规模，说明尚未进入规模化扩张阶段，核心业务模式仍在打磨。",
+      "长沙子公司已注销（2023年成立后短期内注销），反映早期区域扩张战略受挫，现聚焦杭州单一市场。",
+      "实缴资本偏低、无公开融资、招聘信号弱，综合判断企业仍在以最小单位维持运转并寻找稳定营收方向。"
+    ],
+    "entryStrategy": "以AI工具和轻量化管理系统切入其运营痛点，提供高性价比的定制化方案，与创始人建立技术信任后可推进更深度的数字化合作。",
+    "urgency": "中等，窗口期6-12个月，当前处于业务定型关键期，若能获得稳定大客户可快速进入成长期，否则面临转型或退出压力。"
+  },
+  "hiring": {
+    "keySignals": [
+      "公开招聘信号极弱（无明显招聘信息），团队规模稳定在5人左右，属于深度精干型小团队。",
+      "无公开融资记录，资金来源主要依靠创始团队自筹和项目营收。",
+      "已获增值税一般纳税人资质，说明存在稳定的大客户开票需求，业务正规化程度尚可。"
+    ]
+  },
+  "competition": {
+    "industryRank": "尾部玩家（细分赛道直接竞争对手信息不足，但整体处于长尾市场）",
+    "marketShare": "极低（杭州AI应用开发赛道分散，CR5以外）",
+    "mainCompetitors": [
+      "杭州同类型AI应用创业团队（如各类AI SaaS工具开发商）",
+      "全国性软件外包平台（如程序员客栈、开源中国众包等）",
+      "AI Agent平台类厂商（Coze、Dify等平台方对中小外包形成降维竞争）"
+    ],
+    "knownClients": []
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": null,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": "",
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    { "area": "项目管理", "description": "5人小团队多项目并行时，进度和资源冲突难以可视化跟踪，缺乏系统化项目管理工具。", "severity": "中" },
+    { "area": "客户管理", "description": "软件外包客户分散，缺乏统一CRM管理，客户续约和复购路径不清晰，营收稳定性弱。", "severity": "高" },
+    { "area": "知识管理", "description": "AI和大模型技术迭代快，团队经验主要在个人脑中沉淀，人员流动风险高，新人上手慢。", "severity": "中" },
+    { "area": "回款管理", "description": "外包项目账期不固定，回款依赖客户自觉，坏账风险高，资金周转压力大。", "severity": "高" },
+    { "area": "交付管理", "description": "需求变更频繁且缺乏规范记录，交付物验收标准不清晰，容易引发与客户的扯皮。", "severity": "高" }
+  ],
+  "opportunities": [
+    { "area": "知识管理", "description": "通过知识库和AI辅助工具（基于现有AI开发能力自建或集成Dify/FastGPT等开源平台）解决技术沉淀问题，提升团队整体产出效率。", "likelihood": "高" },
+    { "area": "运维管理", "description": "面向所服务的中小企业客户，可将监控告警和运维工具体系作为附加服务输出，增加项目附加值和客户粘性。", "likelihood": "中" },
+    { "area": "产品管理", "description": "在多个外包项目经验积累后，将通用需求提炼为标准化AI产品（如智能客服、文档处理助手），从定制外包向SaaS化过渡，提升营收可预测性。", "likelihood": "中" }
+  ],
+  "analysisPath": "B+",
+  "confidence": 0.58,
+  "metadata": {
+    "createdAt": "2026-04-22",
+    "updatedAt": "2026-04-22",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": ["爱企查", "官网", "行业研究"],
+    "confidence": 0.58
+  }
+}
